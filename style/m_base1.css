@@ -87,7 +87,7 @@ footer ul li:nth-child(3) a{ background:url(../images/find.jpg) no-repeat center
 footer ul li:nth-child(4) a{ background:url(../images/cart.jpg) no-repeat center center; background-size: contain;}
 footer ul li:nth-child(5) a{ background:url(../images/my.jpg) no-repeat center center; background-size: contain;}
 
-footer ul li:nth-child(1).active a{ background:url(../images/H_home.jpg) no-repeat center center; background-size: contain;}
+footer ul li:nth-child(1).active a{ background:url(../images/H_cat.jpg) no-repeat center center; background-size: contain;}
 footer ul li:nth-child(2).active a{ background:url(../images/H_home.jpg) no-repeat center center; background-size: contain;}
 footer ul li:nth-child(3).active a{ background:url(../images/H_cart.jpg) no-repeat center center; background-size: contain;}
 footer ul li:nth-child(4).active a{ background:url(../images/H_find.jpg) no-repeat center center; background-size: contain;}
